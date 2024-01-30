@@ -2,7 +2,7 @@ Dokuwiki-Kocaeli-Universitesi<br>
 <img align="center" src="https://www.svgrepo.com/show/365950/usa.svg"  height="20" width="30" />En:</a><br>
 
 Programming Laboratory I, our 1rd project is the DokuWiki Kocaeli University Project.
-It is written in the Python language.<br>
+It is written in the C Programming language.<br>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  height="30" width="40" /></a><br>
 
 Project Description:<br>
@@ -13,7 +13,7 @@ Project Description:<br>
 
 <img align="center" src="https://www.svgrepo.com/show/237418/turkey.svg"  height="30" width="40" />Tr:</a><br>
 Programlama Laboratuvarı I dersimizin 1. projesi olan DokuWiki Kocaeli Üniversitesi Projesidir.
-Python dilinde yazılmıştır.<br>
+C programlama dilinde yazılmıştır.<br>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  height="30" width="40" /></a><br>
 
 Proje Açıklaması:<br>
