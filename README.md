@@ -27,7 +27,7 @@ In this project, the requirement is to create an application that displays the d
 
 <br><br>
 
-<img align="center" src="https://github.com/betulbodurrr/Dokuwiki-Kocaeli-Universitesi-/blob/main/resim_2024-01-30_213108243.png"  height="400" width="700" /></a><br><br>
-<img align="center" src="https://github.com/betulbodurrr/Dokuwiki-Kocaeli-Universitesi-/blob/main/resim_2024-01-30_213206557.png"  height="400" width="600" /></a><br><br>
-<img align="center" src="https://github.com/betulbodurrr/Dokuwiki-Kocaeli-Universitesi-/blob/main/resim_2024-01-30_213410675.png"  height="200" width="500" /></a><br><br>
-<img align="center" src="https://github.com/betulbodurrr/Dokuwiki-Kocaeli-Universitesi-/blob/main/resim_2024-01-30_213430270.png"  height="200" width="500" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/Dokuwiki-Kocaeli-Universitesi-/blob/main/img1.png"  height="400" width="700" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/Dokuwiki-Kocaeli-Universitesi-/blob/main/img2.png"  height="400" width="600" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/Dokuwiki-Kocaeli-Universitesi-/blob/main/img3.png"  height="200" width="500" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/Dokuwiki-Kocaeli-Universitesi-/blob/main/img4.png"  height="200" width="500" /></a><br><br>
